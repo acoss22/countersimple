@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/acoss22/countersimple/static/css/main.e33d708f.chunk.css",
-    "main.js": "/acoss22/countersimple/static/js/main.864de7f6.chunk.js",
-    "main.js.map": "/acoss22/countersimple/static/js/main.864de7f6.chunk.js.map",
-    "runtime-main.js": "/acoss22/countersimple/static/js/runtime-main.b6c0e699.js",
-    "runtime-main.js.map": "/acoss22/countersimple/static/js/runtime-main.b6c0e699.js.map",
-    "static/js/2.c5c57367.chunk.js": "/acoss22/countersimple/static/js/2.c5c57367.chunk.js",
-    "static/js/2.c5c57367.chunk.js.map": "/acoss22/countersimple/static/js/2.c5c57367.chunk.js.map",
-    "static/js/3.ec15a442.chunk.js": "/acoss22/countersimple/static/js/3.ec15a442.chunk.js",
-    "static/js/3.ec15a442.chunk.js.map": "/acoss22/countersimple/static/js/3.ec15a442.chunk.js.map",
-    "index.html": "/acoss22/countersimple/index.html",
-    "static/css/main.e33d708f.chunk.css.map": "/acoss22/countersimple/static/css/main.e33d708f.chunk.css.map",
-    "static/js/2.c5c57367.chunk.js.LICENSE.txt": "/acoss22/countersimple/static/js/2.c5c57367.chunk.js.LICENSE.txt"
+    "main.css": "/countersimple/static/css/main.e33d708f.chunk.css",
+    "main.js": "/countersimple/static/js/main.864de7f6.chunk.js",
+    "main.js.map": "/countersimple/static/js/main.864de7f6.chunk.js.map",
+    "runtime-main.js": "/countersimple/static/js/runtime-main.087e1546.js",
+    "runtime-main.js.map": "/countersimple/static/js/runtime-main.087e1546.js.map",
+    "static/js/2.c5c57367.chunk.js": "/countersimple/static/js/2.c5c57367.chunk.js",
+    "static/js/2.c5c57367.chunk.js.map": "/countersimple/static/js/2.c5c57367.chunk.js.map",
+    "static/js/3.ec15a442.chunk.js": "/countersimple/static/js/3.ec15a442.chunk.js",
+    "static/js/3.ec15a442.chunk.js.map": "/countersimple/static/js/3.ec15a442.chunk.js.map",
+    "index.html": "/countersimple/index.html",
+    "static/css/main.e33d708f.chunk.css.map": "/countersimple/static/css/main.e33d708f.chunk.css.map",
+    "static/js/2.c5c57367.chunk.js.LICENSE.txt": "/countersimple/static/js/2.c5c57367.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b6c0e699.js",
+    "static/js/runtime-main.087e1546.js",
     "static/js/2.c5c57367.chunk.js",
     "static/css/main.e33d708f.chunk.css",
     "static/js/main.864de7f6.chunk.js"
