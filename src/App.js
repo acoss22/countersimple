@@ -19,10 +19,11 @@ class App extends Component {
   }
 
   render() {
-    return <div>
-      <button onClick={this.handleDecrementation}>-</button>
-      <button onClick={this.handleIncrementation}>+</button>
+    return <div className="container">
+      <button className="button button--outline-grey" id="js-button--cancel" onClick={this.handleDecrementation}>-</button>
       <span>{this.state.counter}</span>
+      <button className="button button--green" id="js-button--accept" onClick={this.handleIncrementation}>+</button>
+     
     </div>;
   }
 }
